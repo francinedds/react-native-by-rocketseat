@@ -12,6 +12,8 @@ Este repositório foi criado para armazenar os exercícios e códigos práticos 
 
 Os projetos incluídos abrangem:
 - Criação de aplicações com React Native.
+- Tipos de navegação, como stack, bottom navigation e drawer.
+- Expo Router e banco de dados SQLite.
 
 > ⚠️ Este repositório não tem foco em um projeto final, mas sim no estudo e prática dos fundamentos.
 
